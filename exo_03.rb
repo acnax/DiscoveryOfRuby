@@ -1,4 +1,4 @@
-#Exercice 3 Ruby Semaine 3 Decouverte
+#Exercice 3 Ruby Decouverte
 
 puts "Bonjour, monde !"
 # puts "Et avec une voix sexy, ça done : Bonjour, monde !"

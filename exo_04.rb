@@ -1,4 +1,4 @@
-#Exercice 4 Ruby Semaine 4 Decouverte
+#Exercice 4 Ruby Decouverte
 
 # puts "Salut, ça farte ?
 

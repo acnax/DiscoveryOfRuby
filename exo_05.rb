@@ -1,4 +1,4 @@
-#Exercice 5 Ruby Semaine 5 Decouverte
+#Exercice 5 Ruby Decouverte
 
 
 # #{} permet de concatener, d'inserer quelque chose au sein de la chaine de caractère

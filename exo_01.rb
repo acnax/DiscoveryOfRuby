@@ -1,3 +1,3 @@
-# Exercice 1 Ruby Semaine 2 Decouverte
+# Exercice 1 Ruby Decouverte
 
 puts "Bonjour, monde !"
