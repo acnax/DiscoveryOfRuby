@@ -3,6 +3,7 @@
 
 ##################   la boucle de Champion   ##################
 
+
 begin
 	puts "Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu (1 à 25) ?"
 	print " > "
@@ -34,16 +35,13 @@ while(num > 0)
 end 
 
 # Methode plus facile
-#
-#etages.times do |i|
-#	etage-1-i.times do
+
+#etage.times do |i|
+# (etage-1-i).times do
 #		print " "
-#	 (i+1).times do
+# end
+#	(i+1).times do
 #	 	print "#"
-#	 end
-#	 puts ""
+#	end
+#	puts ""
 #end
-
-
-
-
