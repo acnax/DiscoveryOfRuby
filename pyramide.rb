@@ -33,6 +33,17 @@ while(num > 0)
 	nb_block += 1
 end 
 
+# Methode plus facile
+#
+#etages.times do |i|
+#	etage-1-i.times do
+#		print " "
+#	 (i+1).times do
+#	 	print "#"
+#	 end
+#	 puts ""
+#end
+
 
 
 
